@@ -1,0 +1,20 @@
+.container-products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 60vw;
+}
+
+.product {
+  width: 300px;
+}
+
+.container-img img {
+  width: 250px;
+}
+
+.btn {
+  cursor: pointer;
+}
