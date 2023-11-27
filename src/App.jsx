@@ -72,7 +72,7 @@ function App() {
 
   return (
     <>
-      <h1>ROUTES</h1>
+      <h1>MIS RUTAS</h1>
       <Routes>
         <Route path="/" element={<Menu />}>
           <Route path="/" element={<Home />}></Route>
